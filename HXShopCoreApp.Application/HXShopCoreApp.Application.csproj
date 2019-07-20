@@ -8,7 +8,14 @@
     <Folder Include="Implementation\" />
     <Folder Include="Interfaces\" />
     <Folder Include="ViewModels\" />
-    <Folder Include="AutoMapper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HXShopCoreApp.Data\HXShopCoreApp.Data.csproj" />
   </ItemGroup>
 
 </Project>
