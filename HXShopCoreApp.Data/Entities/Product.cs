@@ -50,7 +50,7 @@ namespace HXShopCoreApp.Data.Entities
         public string Unit { get; set; }
         public string SeoPageTitle { get; set; }
 
-        [Column(TypeName ="VARCHAR")]
+        [Column(TypeName ="VARCHAR(255)")]
         [StringLength(255)]
         public string SeoAlias { get; set; }
 

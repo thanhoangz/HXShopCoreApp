@@ -1,5 +1,3 @@
-using System;
-
 namespace HXShopCoreApp.Models
 {
     public class ErrorViewModel

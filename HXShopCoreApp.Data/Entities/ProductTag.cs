@@ -13,7 +13,7 @@ namespace HXShopCoreApp.Data.Entities
         public  int ProductId { get; set; }
 
         [StringLength(50)]
-        [Column(TypeName ="VARCHAR")]
+        [Column(TypeName ="VARCHAR(50)")]
         public string TagId { get; set; }
 
         [ForeignKey("ProductId")]

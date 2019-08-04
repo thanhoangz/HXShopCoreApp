@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HXShopCoreApp", "HXShopCoreApp\HXShopCoreApp.csproj", "{2A470A10-8738-4A14-8A1F-733EED6BE1A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXShopCoreApp", "HXShopCoreApp\HXShopCoreApp.csproj", "{2A470A10-8738-4A14-8A1F-733EED6BE1A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Presentation", "{97DDE1F8-7F7A-4E2D-A0F6-81D244AA3646}"
 EndProject
@@ -13,15 +13,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{F4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infrastructure", "4.Infrastructure", "{24B3198E-5FA6-4055-8471-FD06287CCAD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HXShopCoreApp.Data", "HXShopCoreApp.Data\HXShopCoreApp.Data.csproj", "{4AD1616A-5AA3-461C-94F8-ACFAC6AAEB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXShopCoreApp.Data", "HXShopCoreApp.Data\HXShopCoreApp.Data.csproj", "{4AD1616A-5AA3-461C-94F8-ACFAC6AAEB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HXShopCoreApp.Data.EF", "HXShopCoreApp.Data.EF\HXShopCoreApp.Data.EF.csproj", "{58EE226A-1DC6-48C6-B390-8C89A378CF56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXShopCoreApp.Data.EF", "HXShopCoreApp.Data.EF\HXShopCoreApp.Data.EF.csproj", "{58EE226A-1DC6-48C6-B390-8C89A378CF56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HXShopCoreApp.Application", "HXShopCoreApp.Application\HXShopCoreApp.Application.csproj", "{3CF02959-25F6-4AD6-94EE-660DBCAF6370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXShopCoreApp.Application", "HXShopCoreApp.Application\HXShopCoreApp.Application.csproj", "{3CF02959-25F6-4AD6-94EE-660DBCAF6370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HXShopCoreApp.Infrastructure", "HXShopCoreApp.Infrastructure\HXShopCoreApp.Infrastructure.csproj", "{41DFB48B-7752-4A55-B9AF-C041D1B97EFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXShopCoreApp.Infrastructure", "HXShopCoreApp.Infrastructure\HXShopCoreApp.Infrastructure.csproj", "{41DFB48B-7752-4A55-B9AF-C041D1B97EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HXShopCoreApp.Utilities", "HXShopCoreApp.Utilities\HXShopCoreApp.Utilities.csproj", "{B79E874A-18E8-4555-A4A1-EAB37EC47905}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXShopCoreApp.Utilities", "HXShopCoreApp.Utilities\HXShopCoreApp.Utilities.csproj", "{B79E874A-18E8-4555-A4A1-EAB37EC47905}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

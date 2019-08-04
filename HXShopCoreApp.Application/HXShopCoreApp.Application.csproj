@@ -15,7 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HXShopCoreApp.Data.EF\HXShopCoreApp.Data.EF.csproj" />
     <ProjectReference Include="..\HXShopCoreApp.Data\HXShopCoreApp.Data.csproj" />
+    <ProjectReference Include="..\HXShopCoreApp.Utilities\HXShopCoreApp.Utilities.csproj" />
   </ItemGroup>
 
 </Project>
